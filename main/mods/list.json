@@ -1,5 +1,5 @@
 [
  {"directory":"run-js", "descripsion":"in this mod you can run js code", "display":"run javascript", "code":[
-  {"name":"index", "value":"createscene(\"game\", \"game menu\", \"\", \"gamev\", \"dashboard\", true)"}
+  {"name":"index", "value":"createscene('game', 'game menu', '', 'gamev', 'dashboard', true)"}
  ]}
 ]
