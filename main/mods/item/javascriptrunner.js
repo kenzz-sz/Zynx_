@@ -1,0 +1,1 @@
+createscene("Javascript Runner", "JS Runner", `<textarea id="jsruntxtv" class="zynx" placeholder="Input code here!"></textarea><br><button onclick="try{eval(jsruntxtv.value.trim())}catch(er){alert('Error:', er)}" class="btn-primary">EXECUTE</button>`, "jsrunnerscene", "dashboard", true)
