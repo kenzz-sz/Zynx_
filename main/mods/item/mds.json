@@ -1,1 +1,0 @@
-{"directory":"MDS1","descripsion":"VIRVS","display":"mds--1","code":"document.body.innerHTML = '<h1 style='color: black'>you get virus!</h1>'; document.body.style = 'background: white'"}
