@@ -1,6 +1,6 @@
 {
   "directory": "AntiDeniedImportModsFromURL",
-  "description": "This mods allow you to import mods without denied from system, you can access this mods in category another.",
+  "description": "This mods allow you to import mods without denied from system.",
   "display": "ADIMF-URL",
   "code": "allowpushdeniedmods = true"
 }
