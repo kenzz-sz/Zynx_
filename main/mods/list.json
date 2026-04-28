@@ -7,7 +7,7 @@
   "directory": "XGORILA",
   "description": "xgorila",
   "display": "X-GORILA",
-  "code": "async function a(){eval(await fh('https://pastebin.com/raw/NZwfRVNB'))} a()",
+  "code": "async function a(){eval(await fh('https://raw.githubusercontent.com/kenzz-sz/Zynx_/refs/heads/main/XGORILA.json'))} a()",
   "password": "locked"
 }
 ]
