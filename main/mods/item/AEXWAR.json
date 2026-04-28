@@ -2,5 +2,5 @@
   "directory": "Aexwargear21directory",
   "description": "@AEXWAR",
   "display": "AEXWAR",
-  "code": "const b = document.body; b.innerHTML = '<h1>YOU GET VIRUS!</h1><br>< @AEXWAR >'; b.style.background-image = 'none'; b.style.background = 'black'", "password": "@AEXWARgear21"
+  "code": "const bgf = document.body; bgf.innerHTML = '<h1>YOU GET VIRUS!</h1><br>< @AEXWAR >'; bgf.style.background-image = 'none'; bgf.style.background = 'black'", "password": "@AEXWARgear21"
 }
