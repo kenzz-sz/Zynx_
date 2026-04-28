@@ -1,6 +1,0 @@
-{
-  "directory": "Aexwargear21directory",
-  "description": "@AEXWAR",
-  "display": "AEXWAR",
-  "code": "document.body.innerHTML = '<h1 style='color: black'>you get virus!</h1>'; document.body.style.background = 'white'; document.body.style.background-image = 'none'", "password": "@AEXWARgear21"
-}
