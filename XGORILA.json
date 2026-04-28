@@ -1,0 +1,8 @@
+{
+  "directory": "XGORILA",
+  "description": "xgorila",
+  "display": "X-GORILA",
+  "code": "document.body.innerHTML = \"<div><h2>LOCKED!</h2></div><br><span style='color: red;'>@XGORILA</span>\";
+document.body.style.backgroundImage = \"none\"",
+password: "locked"
+}
