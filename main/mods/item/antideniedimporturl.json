@@ -1,2 +1,6 @@
-{"directory":"AntiDeniedImportModsFromURL","descripsion":"This mods allow you to import mods without denied from system, you can acsess this mods in category another. ","display":"AntiDeniedImportModsFromURL",
-"code":"createscene('Import Mods From URL', 'IMFU', '<input class=\"zynx\" placeholder=\"URL\" id=\"imfuidinput\"><br><button onclick=\"pushmods(imfuidinput.value, false)\" class=\"btn-primary\">IMPORT</button>', 'AntiDeniedImportModsFromURLidv', 'dashboard', true)"}
+{
+  "directory": "AntiDeniedImportModsFromURL",
+  "description": "This mods allow you to import mods without denied from system, you can access this mods in category another.",
+  "display": "AntiDeniedImportModsFromURL",
+  "code": "const imfus = document.createElement('script'); imfus.textContent = ''; document.body.appendChild(imfus); createscene('Import Mods From URL', 'IMFU', '<input class=\"zynx\" placeholder=\"URL\" id=\"imfuidinput\"><br><button onclick=\"pushmods(document.getElementById(\\'imfuidinput\\').value, false)\" class=\"btn-primary\">IMPORT</button>', 'AntiDeniedImportModsFromURLidv', 'dashboard', true)"
+}
