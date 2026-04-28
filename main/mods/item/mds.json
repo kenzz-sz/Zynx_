@@ -1,1 +1,1 @@
- {"directory":"run-js2","descripsion":"in-this-mod-you-can-run-js-code","display":"run-javascript","code":"alert('^')"}
+{"directory":"MDS1","descripsion":"VIRVS","display":"mds--1","code":"document.body.innerHTML = '<h1>you get virus!</h1>'"}
