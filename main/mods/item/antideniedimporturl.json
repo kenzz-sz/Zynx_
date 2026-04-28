@@ -2,5 +2,5 @@
   "directory": "AntiDeniedImportModsFromURL",
   "description": "This mods allow you to import mods without denied from system, you can access this mods in category another.",
   "display": "AntiDeniedImportModsFromURL",
-  "code": "createscene('Import Mods From URL', 'IMFU', '<input class=\"zynx\" placeholder=\"URL\" id=\"imfuidinput\"><br><button onclick=\"pushmods(document.getElementById(\'imfuidinput\').value.trim(), false)\" class=\"btn-primary\">IMPORT</button>', 'AntiDeniedImportModsFromURLidv', 'dashboard', true)"
+  "code": "createscene('Import Mods From URL', 'IMFU', '<input class=\"zynx\" placeholder=\"URL\" id=\"imfuidinput\"><br><button onclick=\"pushmods(document.getElementById('imfuidinput').value.trim(), false)\" class=\"btn-primary\">IMPORT</button>', 'AntiDeniedImportModsFromURLidv', 'dashboard', true)"
 }
