@@ -3,7 +3,7 @@
   "directory": "explore-kenzz-sz",
   "description": "Explore mode installer",
   "display": "Explore Mods Installer",
-  "code": "async function a(){pushmods(await fh('https://raw.githubusercontent.com/kenzz-sz/Zynx_mod/refs/heads/main/mods/explore/main.json'))} a()",
+  "code": "async function a(){pushmods(await fh('https://raw.githubusercontent.com/kenzz-sz/Zynx_mod/refs/heads/main/mods/explore/main.json'))} setTimeout(() => {a()}, 2000)",
 "icon": "📥"
 }
 ]
