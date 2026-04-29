@@ -1,1 +1,1 @@
-rmfs("https://raw.githubusercontent.com/kenzz-sz/Zynx_/refs/heads/main/main/mods/item/locked.js")
+rmfs("https://raw.githubusercontent.com/kenzz-sz/Zynx_/refs/heads/main/main/mods/item/locked.json")
