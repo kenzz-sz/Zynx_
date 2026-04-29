@@ -1,3 +1,4 @@
+async function tryi(){
 installedmods.forEach(i => {
 if(i.url){
 await fetch(i.url)
@@ -8,4 +9,5 @@ pushmods(dat)
 }
 });
 }
-})
+})}
+tryi()
