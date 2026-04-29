@@ -2,5 +2,6 @@
   "directory": "autoupdatemods",
   "description": "In this mods if you import mods, mods will auto update",
   "display": "Auto Update",
-  "code": "async function trying(){eval(await fh('https://raw.githubusercontent.com/kenzz-sz/Zynx_/refs/heads/main/main/mods/item/autoupdateitem.js'))} trying()"
+  "code": "async function trying(){eval(await fh('https://raw.githubusercontent.com/kenzz-sz/Zynx_/refs/heads/main/main/mods/item/autoupdateitem.js'))} trying()",
+"url": "https://raw.githubusercontent.com/kenzz-sz/Zynx_/refs/heads/main/main/mods/autoupdate.json"
 }
