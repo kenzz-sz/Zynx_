@@ -1,3 +1,4 @@
+(async => {
 async function tryi(){
 installedmods.forEach(i => {
 if(i.url){
@@ -11,3 +12,4 @@ pushmods(dat)
 }
 })}
 tryi()
+})()
