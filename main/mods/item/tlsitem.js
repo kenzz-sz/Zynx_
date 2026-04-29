@@ -6,6 +6,11 @@ let sampletlsa = [
 'type': 'ask',
 'text': 'This mods use eval(), this will be dangerous, continue?'
 },
+{
+'d': 'rmfs(',
+'type': 'ask',
+'text': 'This mods use rmfs(), this will be dangerous, continue?'
+},
 {'d': ('document'+'.body'),
 'type': 'full',
 'text': ('This mods want to looking to document' + '.body')
