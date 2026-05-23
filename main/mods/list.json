@@ -1,9 +1,10 @@
 [
 {
-  "directory": "explore-kenzz-sz-list123",
-  "description": "Explore mode installer",
-  "display": "Explore Mods Installer",
-  "code": "async function a(){installedmods.push(JSON.parse(await fh('https://raw.githubusercontent.com/kenzz-sz/Zynx_mod/refs/heads/main/mods/explore/main.json'))); installedmods = installedmods.filter(i => i.directory !== 'explore-kenzz-sz-list123'); localStorage.setItem('mymods', JSON.stringify(installedmods))} setTimeout(() => {a()}, 2000)",
-"icon": "📥"
+  "directory": "explore-kenzz-sz",
+  "description": "You can explore, download mods, and another.",
+  "display": "Explore Mods",
+  "code": "rmfs('https://raw.githubusercontent.com/kenzz-sz/Zynx_mod/refs/heads/main/mods/explore/main.js');",
+  "url": "https://raw.githubusercontent.com/kenzz-sz/Zynx_mod/refs/heads/main/mods/explore/main.json",
+  "icon": "🌐"
 }
 ]
