@@ -1,5 +1,6 @@
 [
 {
+  "version": [1,0,0],
   "directory": "explore-kenzz-sz",
   "description": "You can explore, download mods, and another.",
   "display": "Explore Mods",
@@ -8,6 +9,7 @@
   "icon": "🌐"
 },
 {
+    "version": [1,0,0],
     "directory": "xzoneofc",
     "display": "XZone",
     "icon": "✨️",
@@ -20,6 +22,7 @@
   "using-features": [
     "mods"
   ],
+  "version": [1,0,0],
   "directory": "EclipxChat",
   "display": "EclipxChat",
   "icon": "👓",
@@ -34,6 +37,7 @@
   "using-features": [
     "mods"
   ],
+  "version": [1,0,0],
   "directory": "zynx_mobile_banking",
   "display": "Bank",
   "icon": "🏦",
